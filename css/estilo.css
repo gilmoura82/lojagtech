@@ -1,0 +1,50 @@
+.container-fluid {
+    background-color: #555;
+}
+h3 {
+    color:#FFF;
+}
+
+#contatos a {
+    color:#FFF;
+    text-decoration:none;   
+    transition: 400ms;
+}
+#contatos a:hover {
+    transition: 400ms;
+    color:blue;
+
+}
+#contatos p {
+    color:#FFF;
+}
+#contatos {
+    display:flex;
+    justify-content: center;
+}
+.nav-link {
+    color:#FFF;
+    transition: 400ms;
+}
+.nav-link:hover {
+ transition: 400ms;   
+}
+h2 {
+    color:#FFF;
+}
+hr {
+    color:#FFF;
+}
+#novidades {
+    display:flex;
+    justify-content: center;
+}
+#novidades p {
+    color:#FFF;
+}
+#novidades h3 {
+    text-align: center;
+}
+#novidades label {
+    color:#FFF;
+}
